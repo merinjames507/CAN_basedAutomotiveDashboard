@@ -152,9 +152,3 @@ Line 2:   75 3 3500 85  L
        Speed │  RPM Temp Indicator
            Gear
 ```
-
----
-
-## License
-
-This project is for educational purposes. Feel free to use and adapt with attribution.
